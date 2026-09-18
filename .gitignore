@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+backend/data/*.db
+backend/.env
+app/.env
+.DS_Store

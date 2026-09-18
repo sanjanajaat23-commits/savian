@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="STRADEXI logo">
+  <rect width="64" height="64" rx="16" fill="#07110f"/>
+  <path d="M18 20h28v8H34v16h-6V28H18V20z" fill="#34d399"/>
+  <path d="M30 43h16v8H18v-8h12z" fill="#d1fae5" opacity="0.9"/>
+</svg>
